@@ -1,2 +1,3 @@
-# festivus-of-go-ding
-Festivus of coding! But with Go!
+# Happy Festivus
+
+Let's see how long I actually keep this up...
